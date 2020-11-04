@@ -1,6 +1,6 @@
-# Sea of Devs
+﻿# Sea of Devs
 
-## Objectif
+## Objectifeeeeeee
 
 Le projet consiste en l’implémentation d’une bataille navale. Un nombre donné de joueurs,
 chacun représenté par un navire, doivent parcourir un océan à la recherche des autres pour
